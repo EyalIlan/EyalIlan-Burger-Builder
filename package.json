@@ -48,7 +48,7 @@
     "webpack-manifest-plugin": "1.2.1",
     "whatwg-fetch": "2.0.3"
   },
-  "homepage": "https://EyalIlan.github.io/",
+  "homepage": "https://EyalIlan.github.io/burgerBuilder",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
